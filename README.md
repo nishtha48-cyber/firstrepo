@@ -1,2 +1,3 @@
 # firstrepo
-My first git repository
+My first git repository.
+Author- Nishtha Gupta
