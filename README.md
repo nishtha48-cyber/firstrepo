@@ -1,4 +1,6 @@
 # firstrepo
 My first git repository.
 <br>
-Author- Nishtha Gupta
+Author- Nishtha Gupta(BMU)
+
+
